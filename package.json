@@ -16,14 +16,14 @@
     "protobufjs": "^6.8.6",
     "ramda": "^0.25.0",
     "redis": "^2.8.0",
-    "sequelize": "^4.37.3",
+    "sequelize": "^4.37.4",
     "socket.io": "^2.0.4",
     "source-map-support": "^0.5.4",
     "uuid": "^3.2.1",
     "zeromq": "^4.6.0"
   },
   "devDependencies": {
-    "eslint": "^4.19.0",
+    "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
